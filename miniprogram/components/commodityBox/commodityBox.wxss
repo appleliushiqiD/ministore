@@ -1,0 +1,4 @@
+.commodityBox{ width: 350rpx; padding-bottom: 20rpx; box-sizing: border-box; break-inside: avoid; }
+.commodityBox .cover{ width: 100%; height: 400rpx; border-radius: 20rpx; }
+.commodityBox .title{ font-size: 26rpx; }
+.commodityBox .price{ color: var(--global-price-color); font-size: 28rpx; }

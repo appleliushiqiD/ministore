@@ -1,0 +1,13 @@
+page {
+  background-color: #cfd8dc;
+  color: #3e2723;
+  --global-backgound-color: #cfd8dc;
+  --global-price-color: #dd191d;
+  --global-color: #3e2723;
+}
+
+.container { padding: 0 20rpx; box-sizing: border-box; } 
+
+button { background: initial; }
+button:focus{ outline: 0; }
+button::after{ border: none; }

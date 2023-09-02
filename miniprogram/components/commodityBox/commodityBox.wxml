@@ -1,0 +1,5 @@
+<view class="commodityBox">
+  <image class="cover" src="{{commodityInfo.cover}}" mode="{{ flowing ? 'widthFix' : 'aspectFill' }}"/>
+  <view class="title">{{commodityInfo.title}}</view>
+  <view class="price">￥{{commodityInfo.price}}</view>
+</view>

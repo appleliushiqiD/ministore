@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/commodity/commodity"
+  ],
+  "window": {
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#c5cae9",
+    "navigationBarTitleText": "香芋紫",
+    "navigationBarTextStyle":"black"
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

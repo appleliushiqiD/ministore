@@ -1,0 +1,20 @@
+<view class="container">
+  <view class="mainBox">
+    <view class="titleBox">
+      <text class="price">￥{{commodityInfo.price}}</text>
+      <text class="title">{{commodityInfo.title}}</text>
+    </view>
+    <image class="cover" src="{{commodityInfo.cover}}" mode="aspectFill"/>
+  </view>
+  <view class="morePic" wx:if="{{commodityInfo.pictures}}">- 更多详情图片 -</view>
+  <view class="pictures">
+    <image class="pic" wx:for="{{commodityInfo.pictures}}" wx:key="index" src="{{item}}" mode="widthFix"/>
+  </view>
+  <view class="noMore">- 到底了 -</view>
+</view>
+
+<view class="contactBtn">
+  <button class="btn" open-type="contact" session-from="ministore" show-message-card >{{contactTitle}}</button>
+</view>
+
+<githubInfo url="appleliushiqiD" />

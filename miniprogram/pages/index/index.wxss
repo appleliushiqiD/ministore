@@ -1,0 +1,11 @@
+.header{ width: 100%; position: sticky; top: 0; z-index: -1; }
+.header .headerPic{ width: 100%; }
+
+.commodityList{ width: 100%; background: linear-gradient( to bottom, #d1c4e9, var(--global-backgound-color) ); min-height: 1000rpx; transform: translateY(-70rpx); border-radius: 50rpx 50rpx 0 0; }
+.commodityList .topTitle{ line-height: 100rpx; text-align: center;}
+.commodityList .box{ display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; }
+.commodityList .flowing{ columns: 2; column-gap: 10rpx; }
+
+.transformView{ width: 80rpx; height: 80rpx; border-radius: 40rpx; background: #6d4c4e; position: fixed; bottom: 50rpx; right: 50rpx; display: flex; justify-content: center; align-items: center; }
+.transformView .icon{ width: 80%; height: 80%; }
+

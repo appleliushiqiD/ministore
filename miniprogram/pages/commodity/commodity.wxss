@@ -1,0 +1,15 @@
+.mainBox{ padding-top: 20rpx; }
+.mainBox .titleBox{ padding-bottom: 20rpx; }
+.mainBox .titleBox .price{ color: var(--global-price-color); border: 1rpx solid var(--global-price-color); border-radius: 10rpx; padding: 0 10rpx; margin-right: 10rpx; }
+.mainBox .titleBox .title{ font-size: 34rpx; }
+.mainBox .cover{ width: 100%; height: 400rpx; }
+
+.morePic{ font-size: 26rpx; line-height: 100rpx; text-align: center; }
+
+.pictures{ width: 100%; }
+.pictures .pic{ width: 100%; }
+
+.noMore{ font-size: 26rpx; line-height: 100rpx; text-align: center; }
+
+.contactBtn{ width: 100%; height: 80rpx; position: sticky; bottom: 50rpx; z-index: 99; }
+.contactBtn .btn{ all:initial; min-width: 200rpx; height: 80rpx; color: var(--global-color); background: linear-gradient( to bottom right, #42bd41, #7986cd); border-radius: 40rpx; padding: 0 20rpx; display: flex; justify-content: center; align-items: center; position: absolute; right: 50rpx; }

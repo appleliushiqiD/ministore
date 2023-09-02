@@ -1,0 +1,14 @@
+<view class="header">
+  <image class="headerPic" src="{{baseInfo.topPicture}}" mode="widthFix" />
+</view>
+<view class="commodityList container">
+  <view class="topTitle">{{baseInfo.topTitle}}</view>
+  <view class="{{ flowing ? 'flowing' : 'box' }}" >
+    <commodityBox wx:for="{{commoditiesInfo}}" wx:key="index" commodityInfo="{{item}}" flowing="{{flowing}}" bind:tap="tapCommodity" data-commodityInfo="{{item}}"/>
+  </view>
+</view>
+<view class="transformView" bind:tap="tapTransform">
+  <image class="icon" src="../../images/icons/transform.png" mode="aspectFit"/>
+</view>
+
+<githubInfo url="appleliushiqiD" />

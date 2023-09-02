@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "commodityBox": "../../components/commodityBox/commodityBox",
+    "githubInfo": "../../components/githubInfo/githubInfo"
+  }
+}

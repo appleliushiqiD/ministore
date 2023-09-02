@@ -1,0 +1,4 @@
+<view class="githubInfo">
+  <view class="github">- 开源于Github -</view>
+  <view class="url">https://github.com/{{url}}</view>
+</view>

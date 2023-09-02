@@ -1,0 +1,3 @@
+.githubInfo{ height: 100rpx; text-align: center; }
+.githubInfo .github{ font-size: 28rpx; }
+.githubInfo .url{ font-size: 24rpx; }
