@@ -15,5 +15,7 @@
 
 网页截图
 
-1. ![商品信息](./sample/commodity.png)
-2. ![基本信息](./sample/baseinfo.png)
+1. 商品信息
+![商品信息](./sample/commodity.png)
+2. 基本信息
+![基本信息](./sample/baseinfo.png)
