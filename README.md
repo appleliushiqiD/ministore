@@ -41,6 +41,5 @@
 - 学习视频，该部分内容是[新视觉实训 B站](https://space.bilibili.com/505082994) 关于微信小程序开发部分的视频内容  
   - [微信小程序基础](https://www.bilibili.com/video/BV1WQ4y1T7D8)  
   - [微信小程序云开发](https://www.bilibili.com/video/BV12z4y1R77r)  
-  - [微信小程序组件库](https://www.bilibili.com/video/BV18V411C7VV)，前期有参考，后期组件不合意放弃使用  
-  - [微信小程序CMS内容管理](https://www.bilibili.com/video/BV1HA411N7eG)，该部分项目中没有使用  
+  - [微信小程序CMS内容管理](https://www.bilibili.com/video/BV1HA411N7eG)  
 
